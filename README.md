@@ -43,3 +43,10 @@ https://api.themoviedb.org/3/movie/popular?api_key=<<api_key>>&language=en-US&pa
 - PHP 8+
 - MariaDB
 - Doctrine
+
+## Repositorio
+
+```
+https://github.com/m4x1-VF/prueba-tecnica-php
+
+```
